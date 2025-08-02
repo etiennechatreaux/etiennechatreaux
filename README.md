@@ -4,6 +4,9 @@ Currently working on:<br>🎓 Master Thesis – Non-linear Dimensionality Reduct
 
 # 💻 Tech Stack:
 Languages : Python, R, SQL, Go
+
 ML : Scikit-learn, Pytorch, Optuna, MLflow
+
 Web & API : Playwright, Selenium, FastAPI
+
 DevOps / Tools : Git & GitHub Actions, Docker, GCP (Cloud Run, BigQuery), Nuitka
