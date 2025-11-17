@@ -1,4 +1,4 @@
-# 🔥 About Me
+# About Me
 
 Currently working on:<br>
 🎓 Master Thesis — Non-linear Dimensionality Reduction in Finance: Exploring how Kolmogorov–Arnold Networks (KANs) can rethink classical factor models.<br>
