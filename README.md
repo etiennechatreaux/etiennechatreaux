@@ -10,36 +10,6 @@ Currently working on:<br>
 
 ---
 
-## 🏷️ Tech & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-4EA1F2)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![React%20Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Nuitka](https://img.shields.io/badge/Nuitka-000000)
-![PyO3](https://img.shields.io/badge/PyO3-Rust%20⇄%20Python-orange)
-
----
-
 ## 🗂️ Old projects
 
 ### 🧠 Machine Learning & Data Science
@@ -66,9 +36,9 @@ Currently working on:<br>
 
 - **crypto_bot** — Backtesting tools and algorithmic crypto strategies.  
 - **projet_arbitrage** — Statistical arbitrage with performance analysis and experiments.  
-- **tickets-miam-bot / tickets-acc-manager** — Automated bots for ticketing platforms (queues, triggers, session management).  
+- **tickets-miam-bot / tickets-acc-manager** — Bots automating queues, triggers, and session management for ticketing platforms.  
 - **dofus3_bot / grepo_bot** — Game bots automating movements, resource collection, and UI interactions.  
-- **automatisations-n8n** — n8n workflows for API integrations, notifications and data sync automation.
+- **automatisations-n8n** — n8n workflows for API integrations, notifications, and automated data sync.
 
 ---
 
@@ -91,10 +61,35 @@ Currently working on:<br>
 
 # 💻 Tech Stack
 
-**Languages** : Python, Rust, TypeScript, SQL  
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
-**ML** : Scikit-learn, Pytorch, Optuna, MLflow  
+### Machine Learning  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-4EA1F2)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2)
 
-**Web & API** : Playwright, Selenium, FastAPI, Next.js, React, Supabase  
+### Web & APIs  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
-**DevOps / Tools** : Git & GitHub Actions, CI/CD Pipelines, Vercel, Docker, GCP (Cloud Run, BigQuery), Nuitka, PyO3 (Rust–Python bindings)
+### Automation & Scraping  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+
+### DevOps / Infrastructure  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Nuitka](https://img.shields.io/badge/Nuitka-000000)
+![PyO3](https://img.shields.io/badge/PyO3-Rust%20%E2%87%84%20Python-orange)
+
