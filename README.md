@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=etiennechatreaux&color=brightgreen)
+
 # About Me
 
 I’m a Data Scientist with a strong focus on quantitative finance, algorithmic automation, and modern software engineering.  
