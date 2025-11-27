@@ -1,4 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=etiennechatreaux&color=brightgreen)
 
 # About Me
 
