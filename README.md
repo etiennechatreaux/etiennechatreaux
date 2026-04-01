@@ -1,8 +1,8 @@
-
 # About Me
 
-I’m a Data Scientist with a strong focus on quantitative finance, algorithmic automation, and modern software engineering.  
-Many of my repositories are private, so here is an overview of the projects I actively maintain or experiment on.
+I’m a Data Scientist but not just writing Jupyter notebooks.
+Many of my repositories are private, but here’s an overview of the projects I actively maintain or experiment with.
+Feel free to reach out if you’d like to discuss my work.
 
 Currently working on:<br>
 🎓 **Master Thesis — Non-linear Dimensionality Reduction in Finance**: Exploring how Kolmogorov–Arnold Networks (KANs) can rethink classical factor models.<br>
